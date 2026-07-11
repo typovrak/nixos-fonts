@@ -24,7 +24,7 @@ This module is part of ```Typovrak NixOS```, a fully modular and declarative ope
 
 ## 📦 Features
 
-- 🎭 **Emoji support**: Installs ```noto-fonts-emoji``` so all standard emojis render correctly.
+- 🎭 **Emoji support**: Installs ```noto-fonts-color-emoji``` so all standard emojis render correctly.
 - 🗿 **Nerd font :** Provides JetBrainsMono patched with Nerd Font glyphs for extended icon & symbol coverage.
 - ⚙️ **Fontconfig integration :** Enables ```fontconfig``` and default font packages for seamless system-wide use.
 - 🔄 **Idempotent :** Safe to include in every rebuild, always enforces the same font set.
