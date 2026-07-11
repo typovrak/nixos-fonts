@@ -10,7 +10,7 @@ in {
 		fontconfig.enable = true;
 		packages = with pkgs; [
 			noto-fonts-emoji
-			(nerdfonts.override { fonts = [ "JetBrainsMono" ]; })
+			nerd-fonts.jetbrains-mono
 		];
 	};
 }
